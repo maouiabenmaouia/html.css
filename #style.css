@@ -1,0 +1,36 @@
+h2 {
+    color: rgb(224, 13, 13);
+    body {
+        background-image: url("bgdesert.jpg");
+      }
+}
+
+
+#ferst-titel{
+    color: blueviolet;
+    text-align: end;
+    text-decoration: underline;
+
+}
+p:link{
+    color: red;
+
+}
+
+body {
+    background-image: url("gradient_bg.png");
+    background-repeat: repeat-x;
+  }
+#max{
+        background-image: url("img_tree.png");
+        background-repeat: no-repeat;
+        background-position: right top;
+      
+}  
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
